@@ -1,0 +1,39 @@
+{
+  "expo": {
+  "name": "IP",
+  "slug": "ip-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+  "icon": "./assets/logo comboio.jpg",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+  "image": "./assets/logo comboio.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSCameraUsageDescription": "Esta app precisa de acesso à câmara para anexar fotos aos cálculos",
+        "NSPhotoLibraryUsageDescription": "Esta app precisa de acesso às fotos para anexar imagens aos cálculos"
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+    "foregroundImage": "./assets/logo comboio.jpg",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "permissions": [
+        "CAMERA",
+        "READ_MEDIA_IMAGES",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ]
+    },
+    "web": {
+  "favicon": "./assets/logo comboio.jpg"
+    }
+  }
+}
