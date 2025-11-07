@@ -1,14 +1,14 @@
 {
   "expo": {
-  "name": "IP",
-  "slug": "ip-app",
+    "name": "IP",
+    "slug": "ip-app",
     "version": "1.0.0",
     "orientation": "portrait",
-  "icon": "./assets/logo comboio.jpg",
+    "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-  "image": "./assets/logo comboio.jpg",
+      "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -21,7 +21,7 @@
     },
     "android": {
       "adaptiveIcon": {
-    "foregroundImage": "./assets/logo comboio.jpg",
+        "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
@@ -29,11 +29,24 @@
         "CAMERA",
         "READ_MEDIA_IMAGES",
         "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE",
+        "CAMERA",
+        "READ_MEDIA_IMAGES",
+        "READ_EXTERNAL_STORAGE",
         "WRITE_EXTERNAL_STORAGE"
-      ]
+      ],
+      "package": "com.brrrocket.ipapp"
     },
     "web": {
-  "favicon": "./assets/logo comboio.jpg"
+      "favicon": "./assets/icon.png"
+    },
+    "plugins": [
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "60afc48a-c8bc-415f-9a35-b39dde52f451"
+      }
     }
   }
 }

@@ -147,11 +147,11 @@ export default function CalculationsScreen() {
   const THEME_TO_MANIFEST = {
     rail: 'VIAS',
     ballast: 'Balastro',
-    sleepers: 'FIXAÇÕES_TRAVESSA_MADEIRA_54',
-    curves: 'Calculo_Flechas_-RAIOS',
+    sleepers: 'fixacoes_travessa_madeira_54',
+    curves: 'calculo_flechas_raios',
     superelevation: 'Escalas',
     levelcrossing: 'PNs',
-    fixations: 'FIXAÇÃO_TBB_02',
+    fixations: 'fixacao_tbb_02',
     converter: 'Escalas',
     'bls-total': 'Balastro',
   };

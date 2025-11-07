@@ -23,9 +23,9 @@ export default function SchemasScreen() {
   const [userImages, setUserImages] = useState([]);
 
   const CATEGORY_TO_MANIFESTS = {
-    track: ['Balastro','VIAS','Travessa_de_madeira_pela_via','FIXAÇÕES_TRAVESSA_MADEIRA_54'],
-    catenary: ['Força_Centrifuga','PGV'],
-    components: ['FIXAÇÃO_TBB_02','FIXAÇÃO_TBB_03','FIXAÇÕES_TRAVESSA_MADEIRA_54'],
+    track: ['Balastro','VIAS','travessa_madeira_via','fixacoes_travessa_madeira_54'],
+    catenary: ['forca_centrifuga','PGV'],
+    components: ['fixacao_tbb_02','fixacao_tbb_03','fixacoes_travessa_madeira_54'],
     signaling: ['PNs'],
   };
 

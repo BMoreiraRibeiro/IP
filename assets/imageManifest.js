@@ -4,19 +4,19 @@ export default {
     require('./schemas/Balastro/imagem_1.png'),
     require('./schemas/Balastro/imagem_2.png'),
   ],
-  "Calculo_Flechas_-RAIOS": [
-    require('./schemas/Calculo_Flechas_-RAIOS/imagem_1.png'),
-    require('./schemas/Calculo_Flechas_-RAIOS/imagem_10.png'),
-    require('./schemas/Calculo_Flechas_-RAIOS/imagem_11.png'),
-    require('./schemas/Calculo_Flechas_-RAIOS/imagem_12.png'),
-    require('./schemas/Calculo_Flechas_-RAIOS/imagem_2.png'),
-    require('./schemas/Calculo_Flechas_-RAIOS/imagem_3.png'),
-    require('./schemas/Calculo_Flechas_-RAIOS/imagem_4.png'),
-    require('./schemas/Calculo_Flechas_-RAIOS/imagem_5.png'),
-    require('./schemas/Calculo_Flechas_-RAIOS/imagem_6.png'),
-    require('./schemas/Calculo_Flechas_-RAIOS/imagem_7.png'),
-    require('./schemas/Calculo_Flechas_-RAIOS/imagem_8.png'),
-    require('./schemas/Calculo_Flechas_-RAIOS/imagem_9.png'),
+  "calculo_flechas_raios": [
+    require('./schemas/calculo_flechas_raios/imagem_1.png'),
+    require('./schemas/calculo_flechas_raios/imagem_10.png'),
+    require('./schemas/calculo_flechas_raios/imagem_11.png'),
+    require('./schemas/calculo_flechas_raios/imagem_12.png'),
+    require('./schemas/calculo_flechas_raios/imagem_2.png'),
+    require('./schemas/calculo_flechas_raios/imagem_3.png'),
+    require('./schemas/calculo_flechas_raios/imagem_4.png'),
+    require('./schemas/calculo_flechas_raios/imagem_5.png'),
+    require('./schemas/calculo_flechas_raios/imagem_6.png'),
+    require('./schemas/calculo_flechas_raios/imagem_7.png'),
+    require('./schemas/calculo_flechas_raios/imagem_8.png'),
+    require('./schemas/calculo_flechas_raios/imagem_9.png'),
   ],
   "Escalas": [
     require('./schemas/Escalas/imagem_1.png'),
@@ -35,19 +35,19 @@ export default {
     require('./schemas/Escalas/imagem_8.png'),
     require('./schemas/Escalas/imagem_9.png'),
   ],
-  "FIXAÇÃO_TBB_02": [
-    require('./schemas/FIXAÇÃO_TBB_02/imagem_1.png'),
-    require('./schemas/FIXAÇÃO_TBB_02/imagem_2.png'),
+  "fixacao_tbb_02": [
+    require('./schemas/fixacao_tbb_02/imagem_1.png'),
+    require('./schemas/fixacao_tbb_02/imagem_2.png'),
   ],
-  "FIXAÇÃO_TBB_03": [
-    require('./schemas/FIXAÇÃO_TBB_03/imagem_1.png'),
-    require('./schemas/FIXAÇÃO_TBB_03/imagem_2.png'),
+  "fixacao_tbb_03": [
+    require('./schemas/fixacao_tbb_03/imagem_1.png'),
+    require('./schemas/fixacao_tbb_03/imagem_2.png'),
   ],
-  "FIXAÇÕES_TRAVESSA_MADEIRA_54": [
-    require('./schemas/FIXAÇÕES_TRAVESSA_MADEIRA_54/imagem_1.png'),
+  "fixacoes_travessa_madeira_54": [
+    require('./schemas/fixacoes_travessa_madeira_54/imagem_1.png'),
   ],
-  "Força_Centrifuga": [
-    require('./schemas/Força_Centrifuga/imagem_1.png'),
+  "forca_centrifuga": [
+    require('./schemas/forca_centrifuga/imagem_1.png'),
   ],
   "PGV": [
     require('./schemas/PGV/imagem_1.png'),
@@ -56,9 +56,9 @@ export default {
     require('./schemas/PNs/imagem_1.png'),
     require('./schemas/PNs/imagem_2.png'),
   ],
-  "Travessa_de_madeira_pela_via": [
-    require('./schemas/Travessa_de_madeira_pela_via/imagem_1.png'),
-    require('./schemas/Travessa_de_madeira_pela_via/imagem_2.png'),
+  "travessa_madeira_via": [
+    require('./schemas/travessa_madeira_via/imagem_1.png'),
+    require('./schemas/travessa_madeira_via/imagem_2.png'),
   ],
   "VIAS": [
     require('./schemas/VIAS/imagem_1.png'),
